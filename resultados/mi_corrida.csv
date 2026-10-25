@@ -1,0 +1,31 @@
+tarea,dificultad,respondible,esperado,obtenido,estado,resultado,detalle,llamadas_modelo,tokens_entrada,tokens_salida,costo,tiempo_s,tiempo_modelo_s
+mun-001,facil,True,1930; 1950,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-002,facil,True,United States,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-003,facil,True,4,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-004,facil,True,52,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-005,facil,True,2010-07-11,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-006,facil,True,1960-10-30,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-007,facil,True,United States,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-008,facil,True,8,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-009,facil,True,22,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-010,facil,True,12,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-011,facil,True,13,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-012,facil,False,,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-013,facil,False,,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-014,media,True,1470,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-015,media,True,1,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-016,media,True,1,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-017,media,True,92,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-018,media,True,5,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-019,media,True,Paolo Rossi; Karl-Heinz Rummenigge,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-020,media,True,35,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-021,media,True,Argentina,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-022,media,False,,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-023,media,False,,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-024,dificil,True,23,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-025,dificil,True,20,,error,sin_respuesta,,0,0,0,0,0.001,0.0
+mun-026,dificil,True,9733,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-027,dificil,True,15,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-028,dificil,True,1,,error,sin_respuesta,,0,0,0,0,0.0,0.0
+mun-029,dificil,True,23,,error,sin_respuesta,,0,0,0,0,0.001,0.0
+mun-030,dificil,True,39,,error,sin_respuesta,,0,0,0,0,0.0,0.0
