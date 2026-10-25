@@ -1,0 +1,19 @@
+# Configuración del harness. Se copia entera en `corrida_inicio.config` de cada traza.
+# Podés agregar claves; las que están acá son las que el kit lee.
+
+[modelo]
+nombre = "qwen3:8b"   # el tag va siempre explícito: sin tag, Ollama usa "latest"
+num_ctx = 8192        # obligatorio y se manda en cada llamada. Ollama usa 4096 por defecto en una T4
+temperatura = 0
+semilla = 1337
+think = false         # el razonamiento interno de Qwen3 cambia mucho los tokens: si lo prendés, declaralo
+num_predict = 800     # tope de tokens que escribe el modelo por llamada
+timeout_s = 300       # por llamada al modelo
+
+[frenos]
+max_pasos = 14        # el enunciado exige un tope de pasos...
+max_tokens = 80000    # ...y uno de tokens (entrada más salida, sumados sobre todas las llamadas)
+max_seg = 240         # opcional
+
+[contexto]
+tope_resultado_caracteres = 4000   # un resultado de herramienta más largo se recorta antes de volver al modelo
